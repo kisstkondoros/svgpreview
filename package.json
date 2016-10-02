@@ -54,6 +54,16 @@
           "group": "navigation"
         }
       ]
+    },
+    "configuration": {
+      "title": "svgpreview",
+      "properties": {
+        "svgpreview.singletonmode": {
+          "type": "boolean",
+          "default": false,
+          "description": "A flag which indicates whether the svgpreview should work in singleton mode. Singleton mode means svg preview always shown the last opened svg file's content."
+        }
+      }
     }
   },
   "scripts": {
