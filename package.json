@@ -30,7 +30,7 @@
     "commands": [
       {
         "command": "svgpreview.showPreview",
-        "title": "Preview",
+        "title": "SVG Preview: Preview",
         "icon": {
           "dark": "assets/Preview_inverse.svg",
           "light": "assets/Preview.svg"
@@ -38,7 +38,7 @@
       },
       {
         "command": "svgpreview.showPreviewToSide",
-        "title": "Show preview to side",
+        "title": "SVG Preview: Show preview to side",
         "icon": {
           "dark": "assets/PreviewOnRightPane_16x_dark.svg",
           "light": "assets/PreviewOnRightPane_16x.svg"
